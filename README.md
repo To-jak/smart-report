@@ -1,2 +1,2 @@
 # smart-report
-Research and implementations for automatic generation of report from work meeting conversations.
+Research and implementations for automatic conversation synthesis.
